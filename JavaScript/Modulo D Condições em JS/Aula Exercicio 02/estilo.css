@@ -22,3 +22,10 @@ footer{
     text-align: center;
     font-style: italic;
 }
+
+#imagem{
+    align-items: center;
+    border-radius: 50;
+    width: 50%;
+    height: 50%;
+}
